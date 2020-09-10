@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Iphone 11</string>
+    <string name="content_text">Iphone 11 pas segala-galanya.
+        Sistem kamera ganda baru merekam lebih banyak lagi
+        hal yang Anda lihat dan sukai. Chip paling cepat yang pernah
+        ada di ponsel pintar dan kekuatan baterai sepanjang hari
+        memungkinkan Anda melakukan lebih banyak hal tanpa perlu
+        sering mengisi daya. Dan kualitas video terbaik di ponsel
+        pintar, jadi kenangan Anda terlihat lebih baik daripada sebelumnya.</string>
+	    <string name="content_specs_display">
+            Layar Liquid Retina HD Layar LCD Multi-Touch sepenuhnya 6,1
+            inci (diagonal) dengan teknologi IPS Resolusi 1792 x 828 piksel
+            pada 326 ppiRasio kontras 1400:1 (umum)Layar True ToneLayar warna
+            luas (P3)Haptic Touch Kecerahan maks 625 nit (umum) Lapisan oleophobic
+            anti sidik jari Mendukung tampilan berbagai bahasa dan
+            karakter secara bersamaan</string>
+  	    <string name="content_specs_size">
+            Lebar: 75,7 mm  Tinggi:150,9 mm Tebal:8,3 mm Berat: 194 gram
+        </string>
+   	    <string name="content_specs_battery">Dengan waktu pakai hingga 1 jam lebih lama
+            dibanding iPhone XR Pemutaran video: Hingga 17 jam Pemutaran video
+            (streaming): Hingga 10 jam Pemutaran audio: Hingga 65 jam
+            Kemampuan isi daya cepat:Pengisian daya hingga 50% dalam 30
+            menit8 dengan adaptor 18 W atau lebih tinggi (dijual secara terpisah)
+            Baterai lithium-ion bawaan yang dapat diisi ulang Pengisian daya
+            nirkabel (berfungsi dengan pengisi daya Qi9) Mengisi daya melalui
+            USB ke sistem komputer atau adaptor daya</string>
+    <string name="content_kapasitas">
+        64 GB
+        128 GB
+        256 GB
+    </string>
+    <string name="content_kamera">
+        Dua kamera 12 MP Ultra Wide dan Wide Ultra Wide: bukaan ƒ/2.4dan bidang pandang 120°
+        Wide: bukaan ƒ/1.8 Zoom optik 2x; zoom digital hingga 5x
+        Mode Potret dengan bokeh yang disempurnakan dan Depth Control
+        Pencahayaan Potret dengan enam efek (Alami, Studio, Kontur, Panggung, Panggung Mono, High-Key Mono)
+        Penstabilan gambar optik (Wide) Lensa lima elemen (Ultra Wide); lensa enam elemen (Wide)
+        Flash True Tone lebih terang dengan Slow Sync Panorama (hingga 63 MP)
+        Penutup lensa kristal safir 100% Focus Pixels (Wide)
+        Mode Malam Penyesuaian Otomatis Smart HDR generasi berikutnya untuk foto
+        Pengambilan foto dan Live Photo dengan rentang warna luas Koreksi mata merah yang canggih
+        Penstabilan gambar otomatis Mode beruntun Penanda lokasi foto Format gambar yang diambil: HEIF dan JPEG
+    </string>
+    <string name="content_operasi">
+        iOS 13
+iOS adalah sistem operasi seluler paling personal dan aman di
+        dunia, dilengkapi dengan fitur andal dan dirancang untuk melindungi privasi Anda.
+    </string>
+    <string name="stock">Stock terbatas </string>
+    <string name="specification">Spesifikasi</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">iBox Store</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp.11.500.000 - Rp. 15.499.000</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="battery">Battery</string>
+    <string name="size">Size</string>
+    <string name="display">Display</string>
+    <string name="kapasitas">Kapasitas </string>
+    <string name="kamera">Kamera</string>
+    <string name="operasi">Sistem Operasi</string>
+
+
+</resources>
