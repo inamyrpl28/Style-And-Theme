@@ -14,4 +14,4 @@ merupakan sebuah kumpulan properti yang dibutuhkan untuk mendefinisikan bagaiman
 ### Theme atau tema
 itu sendiri merupakan sebuah style yang diterapkan khusus untuk activity dan application pada berkas AndroidManifest.xml.
 
-gambar hasil pengerjaan soon:)
+*gambar hasil pengerjaan soon:)*
