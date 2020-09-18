@@ -14,4 +14,8 @@ merupakan sebuah kumpulan properti yang dibutuhkan untuk mendefinisikan bagaiman
 ### Theme atau tema
 itu sendiri merupakan sebuah style yang diterapkan khusus untuk activity dan application pada berkas AndroidManifest.xml.
 
-*gambar hasil pengerjaan soon:)*
+![Alt Text](https://github.com/inamyrpl28/Style-And-Theme/blob/master/Style%20and%20Theme/2.jpeg)
+
+![Alt Text](https://github.com/inamyrpl28/Style-And-Theme/blob/master/Style%20and%20Theme/3.jpeg)
+
+![Alt Text](https://github.com/inamyrpl28/Style-And-Theme/blob/master/Style%20and%20Theme/4.jpeg)
